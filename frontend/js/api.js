@@ -1,4 +1,4 @@
-const API_URL = 'https://sakurazen.onrender.com';
+const API_URL = 'https://sakurazen.onrender.com/api';
 
 const getHeaders = () => {
     const token = localStorage.getItem('token');
